@@ -1,12 +1,12 @@
-This is command line tools for access to your Skyeng profile.
-You cat get:
+This is a command line tool for access to your Skyeng profile.
+You can get the following:
 1. Your words list with meanings and name of lesson, where this word from.
 2. Something else?
 
 Originally I needed this tool for sync my words with Anki cards app 
 and for convenient way for seeing new words for each lesson.
 
-For the future, I want to create sync tool with Anki. Keep in touch!
+TODO: For the future, I want to create sync tool with Anki. Keep in touch!
 
 # Quickstart
 
