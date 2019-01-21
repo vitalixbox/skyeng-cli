@@ -11,7 +11,7 @@ TODO: For the future, I want to create sync tool with Anki. Keep in touch!
 # Quickstart
 
 Install:
-```
+```sh
 cd skyeng-cli
 python setup.py install
 
@@ -19,7 +19,7 @@ skyeng-cli --help
 ```
 
 You can authorize for two ways:
-```
+```sh
 # 1. With auth token. It's preferable way
 skyeng-cli --token=TOKEN wordsets
 # Your auth token you can get from browser's cookies "session_global"
@@ -31,7 +31,7 @@ skyeng-cli --username=USERNAME --password=PASSWORD wordsets
 ```
 
 You can get your profile's data:
-```
+```sh
 # Wordsets - it's words, which were in lessons
 skyeng-cli wordsets
 
