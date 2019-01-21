@@ -1,0 +1,9 @@
+include README.md
+graft tests
+global-exclude *.pyc
+
+# Setup-related things
+include requirements-dev.txt
+include requirements.txt
+include setup.py
+include tox.ini
