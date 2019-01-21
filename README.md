@@ -19,7 +19,7 @@ skyeng-cli --help
 ```
 
 You can authorize for two ways:
-``'
+```
 # 1. With auth token. It's preferable way
 skyeng-cli --token=TOKEN wordsets
 # Your auth token you can get from browser's cookies "session_global"
