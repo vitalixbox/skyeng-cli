@@ -1,4 +1,4 @@
-# Skyeng commanf line tools
+# Skyeng command line tools
 
 This is a command line tool for access to your Skyeng profile.
 Originally I needed this tool for sync my words with Anki cards app 
