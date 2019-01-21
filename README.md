@@ -1,12 +1,9 @@
 This is a command line tool for access to your Skyeng profile.
+Originally I needed this tool for sync my words with Anki cards app 
+and for convenient way for seeing new words for each lesson.
 You can get the following:
 1. Your words list with meanings and name of lesson, where this word from.
 2. Something else?
-
-Originally I needed this tool for sync my words with Anki cards app 
-and for convenient way for seeing new words for each lesson.
-
-TODO: For the future, I want to create sync tool with Anki. Keep in touch!
 
 # Quickstart
 
@@ -38,3 +35,9 @@ skyeng-cli wordsets
 # Show all your words with meanings and wordsets
 skyeng-cli words
 ```
+
+# TODO
+
+1. Sync tool with Anki.
+2. Work with Skyeng's dictionary.
+
